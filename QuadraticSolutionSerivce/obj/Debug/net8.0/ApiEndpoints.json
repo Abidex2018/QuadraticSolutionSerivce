@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "QuadraticSolutionSerivce.Controllers.QuadEquationController",
+    "Method": "CalculateEquation",
+    "RelativePath": "api/QuadEquation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "QuadraticSolutionSerivce.Model.EquationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
