@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadraticSolutionSerivce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c44ad9e59462551242733cd4894c6c2b6d9a9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadraticSolutionSerivce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadraticSolutionSerivce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

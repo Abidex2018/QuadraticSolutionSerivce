@@ -29,6 +29,6 @@ namespace QuadraticSolutionSerivce.Controllers
 
             return Ok(_equationResult);
         }
-      
+
     }
 }

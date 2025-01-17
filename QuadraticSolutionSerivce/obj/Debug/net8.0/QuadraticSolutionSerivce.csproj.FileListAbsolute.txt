@@ -30,3 +30,4 @@ C:\Users\Bidex\source\repos\Quadratic_Equation_Service\QuadraticSolutionSerivce\
 C:\Users\Bidex\source\repos\Quadratic_Equation_Service\QuadraticSolutionSerivce\QuadraticSolutionSerivce\obj\Debug\net8.0\QuadraticSolutionSerivce.pdb
 C:\Users\Bidex\source\repos\Quadratic_Equation_Service\QuadraticSolutionSerivce\QuadraticSolutionSerivce\obj\Debug\net8.0\QuadraticSolutionSerivce.genruntimeconfig.cache
 C:\Users\Bidex\source\repos\Quadratic_Equation_Service\QuadraticSolutionSerivce\QuadraticSolutionSerivce\obj\Debug\net8.0\ref\QuadraticSolutionSerivce.dll
+C:\Users\Bidex\source\repos\Quadratic_Equation_Service\QuadraticSolutionSerivce\QuadraticSolutionSerivce\obj\Debug\net8.0\QuadraticSolutionSerivce.sourcelink.json

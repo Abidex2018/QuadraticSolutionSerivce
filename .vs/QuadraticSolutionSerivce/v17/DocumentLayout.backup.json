@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\model\\equationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|solutionrelative:quadraticsolutionserivce\\model\\equationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\model\\equationresultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|solutionrelative:quadraticsolutionserivce\\model\\equationresultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\model\\equationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|solutionrelative:quadraticsolutionserivce\\model\\equationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\equation_logic\\calculatequadraticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|solutionrelative:quadraticsolutionserivce\\equation_logic\\calculatequadraticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\controllers\\quadequationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|solutionrelative:quadraticsolutionserivce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|c:\\users\\bidex\\source\\repos\\quadratic_equation_service\\quadraticsolutionserivce\\quadraticsolutionserivce\\equation_logic\\calculatequadraticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9140D7F2-F45D-4D24-9C28-E60C4248743F}|QuadraticSolutionSerivce\\QuadraticSolutionSerivce.csproj|solutionrelative:quadraticsolutionserivce\\equation_logic\\calculatequadraticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,66 +47,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Program.cs",
-              "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Program.cs",
-              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Program.cs",
-              "RelativeToolTip": "QuadraticSolutionSerivce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:27:41.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "QuadEquationController.cs",
               "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Controllers\\QuadEquationController.cs",
               "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Controllers\\QuadEquationController.cs",
               "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Controllers\\QuadEquationController.cs",
               "RelativeToolTip": "QuadraticSolutionSerivce\\Controllers\\QuadEquationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:22:36.767Z",
+              "WhenOpened": "2025-01-16T16:44:16.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Program.cs",
+              "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Program.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Program.cs",
+              "RelativeToolTip": "QuadraticSolutionSerivce\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:29:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CalculateQuadraticEquation.cs",
               "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Equation_Logic\\CalculateQuadraticEquation.cs",
               "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Equation_Logic\\CalculateQuadraticEquation.cs",
               "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Equation_Logic\\CalculateQuadraticEquation.cs",
               "RelativeToolTip": "QuadraticSolutionSerivce\\Equation_Logic\\CalculateQuadraticEquation.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T09:04:22.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EquationResultResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
-              "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
-              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
-              "RelativeToolTip": "QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:54:58.214Z",
+              "WhenOpened": "2025-01-16T14:43:53.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EquationResultResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
+              "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
+              "RelativeToolTip": "QuadraticSolutionSerivce\\Model\\EquationResultResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:43:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EquationRequest.cs",
               "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Model\\EquationRequest.cs",
               "RelativeDocumentMoniker": "QuadraticSolutionSerivce\\Model\\EquationRequest.cs",
               "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Quadratic_Equation_Service\\QuadraticSolutionSerivce\\QuadraticSolutionSerivce\\Model\\EquationRequest.cs",
               "RelativeToolTip": "QuadraticSolutionSerivce\\Model\\EquationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:54:02.938Z",
+              "WhenOpened": "2025-01-15T16:41:37.135Z",
               "EditorCaption": ""
             }
           ]

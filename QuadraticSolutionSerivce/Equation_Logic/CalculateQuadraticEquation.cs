@@ -3,17 +3,17 @@ using QuadraticSolutionSerivce.Model;
 
 namespace QuadraticSolutionSerivce.Equation_Logic
 {
-    public class CalculateQuadraticEquation
+    public  class CalculateQuadraticEquation
     {
         public EquationResultResponse CalculateEquation(EquationRequest request)
         {
-            if(request.Co_Ef_A == 0)
+            if (request.Co_Ef_A == 0)
             {
                 return new EquationResultResponse
                 {
-                    ResponseCode = "400",
+                    ResponseCode = StatusCodes.Status400BadRequest.ToString(),
                     Message = "Coefficient 'a' must not be zero for the quadratic equation.",
-                    EquationType = "Undetermined"
+                    EquationType = nameof(EquationType.Undetermined)
 
                 };
             }
@@ -37,7 +37,7 @@ namespace QuadraticSolutionSerivce.Equation_Logic
 
             double D = (b * b) - (4 * a * c);
 
-            if(D > 0)
+            if (D > 0)
             {
                 double root1 = (-b + Math.Sqrt(D)) / (2 * a);
                 double root2 = (-b - Math.Sqrt(D)) / (2 * a);
@@ -45,22 +45,22 @@ namespace QuadraticSolutionSerivce.Equation_Logic
 
                 return new EquationResultResponse
                 {
-                    ResponseCode = "200",
+                    ResponseCode = StatusCodes.Status200OK.ToString(),
                     Message = "Calculation Successful.",
-                    EquationType = "Real and Distinct Root",
+                    EquationType = nameof(EquationType.Real_And_Distinct_Root).Replace("_", " "),
                     FirstRoot = root1,
                     SecondRoot = root2
                 };
             }
-            else if(D == 0)
+            else if (D == 0)
             {
                 double roots = -b / (2 * 1);
 
                 return new EquationResultResponse
                 {
-                    ResponseCode = "200",
+                    ResponseCode = StatusCodes.Status200OK.ToString(),
                     Message = "Calculation Successful.",
-                    EquationType = "Real and Equal Root",
+                    EquationType = nameof(EquationType.Real_And_Equal_Root).Replace("_", " "),
                     FirstRoot = roots,
                     SecondRoot = roots
                 };
@@ -74,11 +74,11 @@ namespace QuadraticSolutionSerivce.Equation_Logic
 
                 return new EquationResultResponse
                 {
-                    ResponseCode = "200",
+                    ResponseCode = StatusCodes.Status200OK.ToString(),
                     Message = "Calculation Successful.",
-                    EquationType = "Imaginary Root",
-                    ImaginaryRoot1 = $"{realPart} + {imaginaryPart}i",
-                    ImaginaryRoot2 = $"{realPart} - {imaginaryPart}i"
+                    EquationType = nameof(EquationType.Imaginary_Root).Replace("_"," "),
+                    ImaginaryRoot1 = $"{realPart} + {Math.Round(imaginaryPart, 2)}i",
+                    ImaginaryRoot2 = $"{realPart} - {Math.Round(imaginaryPart, 2)}i"
                 };
             }
 
